@@ -1,16 +1,2 @@
-# hit_alert
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# HitAlert
+Accident Detection &amp; Prevention System using IoT &amp;Flutter 🚨📱 Built in 2022 before AI-assisted development tools became common, this project focuses on real-time accident detection, alert generation &amp; GPS-based location tracking using IoT hardware &amp; a Flutter mobile application.  🏆 Received ₹16,000 SSIP Grant for innovation and implementation.
